@@ -1,9 +1,11 @@
 ## Hi 👋, my name is Víctor
 ---
 ### ¿Quién soy?
-Soy Ingeniero en Computación con más de 4 años de experiencia en la campo IT. Mi experiencia inició participando en equipos cuya tarea era el mantenimiento del parque informático de la empresa. Y en los últimos años, me encuentro liderando equipos con más de 20 personas en proyectos de software, que van desde el desarrollo de software, mantenimiento y migración a nuevas tecnologías.
+Soy Ingeniero en Computación con más de 4 años de experiencia en la campo IT. Mi experiencia inició participando en equipos cuya tarea era el mantenimiento del parque informático de la empresa. Actualmente, me encuentro liderando equipos con más de 20 personas en proyectos de software, que van desde el desarrollo de software, mantenimiento y migración a nuevas tecnologías.
 
-Paralelamente a mi ocupación actual, me he enfocado en el desarrollo web como fullstack developer, aprendiendo y trabajando con tecnologías que constituyen el stack PERN: PostgreSQL, Express, React, Node JS, JavaScript, Sequelize, SCRUM y Git entre otras.
+Incursioné en el campo de la ciberseguridad realizando una Especialización en Criptografía y Seguridad Teleinformática, y una Maestría en Ciberdefensa. En ambos tengo pendiente la presentación de un trabajo integrador y tesis respectivamente.
+
+En los últimos meses y en paralelo a mi ocupación actual, me he enfocado en el desarrollo web como fullstack developer, aprendiendo y trabajando con tecnologías que constituyen el stack PERN: PostgreSQL, Express, React, Node JS, JavaScript, Sequelize, SCRUM y Git entre otras.
 
 Dentro de mis pasiones que suelo vivir en mi tiempo libre, se encuentra el trekking, que me ha permitido conectarme con la naturaleza y compartir aventuras con amigos. Y en este último tiempo, me encuentro iniciando mis primeros pasos en calistenia.
 
