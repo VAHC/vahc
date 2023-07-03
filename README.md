@@ -21,7 +21,7 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 * React.js
 * Node.js
 * Express.js
-* PostgreSQL
+* SQL
 * Sequelize
 * Git
 * HTML
