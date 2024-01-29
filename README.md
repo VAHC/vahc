@@ -26,6 +26,7 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 * Git
 * HTML
 * CSS
+* C#
 
 
 
